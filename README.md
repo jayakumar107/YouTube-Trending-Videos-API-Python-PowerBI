@@ -86,7 +86,8 @@ YouTube-Trending-Videos-Aug-2024
 ---
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-![alt text](dashboard_image_youtube_trending_august.png)
+<img width="611" height="341" alt="dashboard_image_youtube_trending_august" src="https://github.com/user-attachments/assets/65b94404-915f-4755-a594-178ac7dc87f6" />
+
 
 The Power BI dashboard includes:
 
